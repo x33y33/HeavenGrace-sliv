@@ -13,3 +13,16 @@ git clone https://github.com/x33y33/HeavenGrace-sliv.git
 ```
 cd HeavenGrace-sliv-master
 ```
+```
+pip install -r requirements.txt
+```
+### Остальные
+```
+git clone https://github.com/x33y33/HeavenGrace-sliv.git
+```
+```
+cd HeavenGrace-sliv-master
+```
+```
+pip install -r requirements.txt
+```
